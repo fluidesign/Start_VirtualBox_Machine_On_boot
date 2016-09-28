@@ -1,1 +1,3 @@
 Executor folder represents the controller.
+The actual back-end code constitutes the controller of the framework. 
+A controller controls the data coming from the users, or going to the user from a model. 

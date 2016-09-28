@@ -1,1 +1,8 @@
 Helpers folder represents the Model
+This part of the framework is to store or/and modify a data.
+
+The model is responsiable for:
+1. Identify if an application installed [Hardcoded ?]
+2. Create files.
+3. Readfile.
+4. Get user permissions for a particular folder [RW permissions]
